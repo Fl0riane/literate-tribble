@@ -5,25 +5,12 @@ const App = () => {
   return (
     <>
       <div className="background-grey">
-        {<h1>Lorem</h1>}
-        {
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </p>
-        }
-      </div>
-      <div className="background-grey">
         <Content
           name="Lorem"
           text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor aliquet risus, sed venenatis dui rutrum sed. Praesent ultrices feugiat felis ac volutpat. Etiam id rhoncus dui. Praesent porttitor massa vel massa efficitur, ac aliquet magna hendrerit. Cras convallis sodales eros a molestie. Nullam ipsum tellus, egestas quis dolor facilisis, rutrum gravida purus. Morbi ut sodales ligula. Sed lacus risus, sagittis ac lobortis eget, semper ornare orci. Aenean vehicula lobortis nisi a laoreet. Aliquam quis dictum augue. Cras sit amet lacinia sem. Pellentesque porta elit at purus sollicitudin, at tempor tortor vulputate."
         />
       </div>
+
       <div className="background-grey">
         <Content
           name="Ipsum"

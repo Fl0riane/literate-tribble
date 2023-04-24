@@ -1,11 +1,8 @@
-import Title from "./Title";
-import Description from "./Description";
-
 const Content = (props) => {
   return (
     <>
-      {props.name}
-      {props.text}
+      <h2 className="title">{props.name}</h2>
+      <p className="paragraph">{props.text}</p>
     </>
   );
 };
