@@ -1,0 +1,21 @@
+.background-grey {
+  background-color: grey;
+  width: 619px;
+  height: 283px;
+  position: relative;
+}
+h1 {
+  position: absolute;
+  top: 15px;
+  left: 16px;
+  height: 27px;
+  font-size: 30px;
+}
+p {
+  position: absolute;
+  top: 67px;
+  left: 16px;
+  font-size: 18px;
+  width: 587px;
+  height: 204px;
+}
