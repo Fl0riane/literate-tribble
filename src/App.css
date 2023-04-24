@@ -19,3 +19,19 @@ p {
   width: 587px;
   height: 204px;
 }
+
+.title {
+  position: absolute;
+  top: 15px;
+  left: 16px;
+  height: 27px;
+  font-size: 30px;
+}
+.paragraph {
+  position: absolute;
+  top: 67px;
+  left: 16px;
+  font-size: 18px;
+  width: 587px;
+  height: 204px;
+}

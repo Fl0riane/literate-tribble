@@ -1,4 +1,4 @@
 const Description = (prosp) => {
-  return <p>{prosp.text}</p>;
+  return <p className="paragraph">{prosp.text}</p>;
 };
 export default Description;
