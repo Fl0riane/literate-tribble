@@ -26,13 +26,13 @@ p {
   height: 204px;
 } */
 
-.title {
+h2 {
   padding-top: 15px;
   height: 27px;
   font-size: 30px;
   padding-bottom: 30px;
 }
-.paragraph {
+p {
   top: 67px;
   left: 16px;
   font-size: 18px;
